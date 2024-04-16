@@ -1,6 +1,6 @@
 # Databricks notebook source
 # MAGIC %md
-# MAGIC ##1. UICL DIM_CLAIM IMPORT GITHUB UPDATE TEST
+# MAGIC ##1. UICL DIM_CLAIM IMPORT
 
 # COMMAND ----------
 
