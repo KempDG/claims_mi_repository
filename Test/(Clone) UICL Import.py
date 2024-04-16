@@ -1,7 +1,6 @@
 # Databricks notebook source
 # MAGIC %md
-# MAGIC ##1. UICL DIM_CLAIM IMPORT TEST CHANGE
-
+# MAGIC ##1. UICL DIM_CLAIM IMPORT
 # COMMAND ----------
 
 dim_claim = (spark.read
