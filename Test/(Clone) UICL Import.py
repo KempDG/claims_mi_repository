@@ -1,6 +1,6 @@
 # Databricks notebook source
 # MAGIC %md
-# MAGIC ##1. UICL DIM_CLAIM IMPORT
+# MAGIC ##1. UICL DIM_CLAIM IMPORT TESTER
 
 # COMMAND ----------
 
