@@ -4,7 +4,6 @@
 
 # COMMAND ----------
 
-#TEST UPDATE
 
 import pyspark.sql.functions as f
 
