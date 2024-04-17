@@ -1,6 +1,6 @@
 # Databricks notebook source
 # MAGIC %md
-# MAGIC ## 1. Import Libraries THIS IS A TEST UPDATE THROUGH GITHUB
+# MAGIC ## 1. Import Libraries
 
 # COMMAND ----------
 
