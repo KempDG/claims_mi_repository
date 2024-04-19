@@ -1,1 +1,1 @@
-# my_repository
+# This is the Claims MI Repository
