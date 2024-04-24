@@ -1,5 +1,11 @@
 # Databricks notebook source
 # MAGIC %md
+# MAGIC ## AAS Production Tables Routine
+# MAGIC The below runs the production table scripts in dependancy order.
+
+# COMMAND ----------
+
+# MAGIC %md
 # MAGIC ## Run AAS Claim Summary
 
 # COMMAND ----------
