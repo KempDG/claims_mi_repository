@@ -74,3 +74,41 @@
 # COMMAND ----------
 
 # MAGIC %run /Users/david.kemp@theaa.com/AAS/TBL_AAS_RESERVED
+
+# COMMAND ----------
+
+# MAGIC
+# MAGIC %md
+# MAGIC ## Run AAS Invoices
+
+# COMMAND ----------
+
+# MAGIC %run /Users/david.kemp@theaa.com/AAS/TBL_AAS_INVOICES
+
+# COMMAND ----------
+
+# MAGIC
+# MAGIC %md
+# MAGIC ## Run AAS Witness
+
+# COMMAND ----------
+
+# MAGIC %run /Users/david.kemp@theaa.com/AAS/TBL_AAS_WITNESS
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC ## Run AAS Financials
+
+# COMMAND ----------
+
+# MAGIC %run /Users/david.kemp@theaa.com/AAS/TBL_AAS_FINANCIALS
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC ## Run AAS Margins
+
+# COMMAND ----------
+
+# MAGIC %run /Users/david.kemp@theaa.com/AAS/TBL_AAS_MARGINS
